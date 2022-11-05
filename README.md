@@ -8,3 +8,6 @@ Testovací repozitář
 
 ##Instrukce
 Tady je detailní info o tom, jak spustit program
+
+##Další sekce
+Další info
