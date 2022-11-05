@@ -1,2 +1,10 @@
 # pyladies-git-2022
-testovací
+Testovací repozitář
+
+# Nadpis
+## Menší nadpis
+*kurziva*
+**tučně**
+
+##Instrukce
+Tady je detailní info o tom, jak spustit program
